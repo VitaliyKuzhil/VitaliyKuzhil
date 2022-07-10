@@ -3,13 +3,11 @@
 
 - 💼 I’m currently working on [DjangoREST_Framework_S-PRO](https://github.com/VitaliyKuzhil/DjangoREST_Framework_S-PRO)
 
-- 🎓 I’m currently learning **Python/Django/DjangoRestFramework Course S-PRO Academy**
+- 🎓 I’m currently learning at **Python/Django/DjangoRestFramework Course S-PRO Academy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VitaliyKuzhil?tab=repositories](https://github.com/VitaliyKuzhil?tab=repositories)
+- 📫 My email address **vitaliy.kuzhil2018@gmail.com** or **vitaliy.kuzhil1996@gmail.com**
 
-- 📫 How to reach me **vitaliy.kuzhil2018@gmail.com**
-
-- 💻 Know about my experiences [https://drive.google.com/file/d/1o2badADWMwdV5ceEKmPy4D2tFGX7_9Uz/view?usp=sharing](https://drive.google.com/file/d/1o2badADWMwdV5ceEKmPy4D2tFGX7_9Uz/view?usp=sharing)**
+- 💻 My resume [Vitaliy Kuzhil PythonCV.pdf](https://drive.google.com/file/d/1o2badADWMwdV5ceEKmPy4D2tFGX7_9Uz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
