@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitaliy Kuzhil</h1>
 <h3 align="center">Junior Python developer from Ukraine, Chernivtsi</h3>
 
-- 💼 I’m currently working on [DjangoREST_Framework_S-PRO](https://github.com/VitaliyKuzhil/DjangoREST_Framework_S-PRO)
-
 - 🎓 I’m currently learning at **Python/Django/DjangoRestFramework Course S-PRO Academy**
 
 - 📫 My email address **vitaliy.kuzhil2018@gmail.com** or **vitaliy.kuzhil1996@gmail.com**
