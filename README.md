@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vitaliy Kuzhil</h1>
 <h3 align="center">Junior Python developer from Ukraine, Chernivtsi</h3>
 
-- 🎓 I’m currently learning at **Python/Django/DjangoRestFramework Course S-PRO Academy**
+- 🎓 I’m currently learning at **Python/Django course SpaseLabTeam**
 
 - 📫 My email address **vitaliy.kuzhil2018@gmail.com** or **vitaliy.kuzhil1996@gmail.com**
 
-- 💻 My resume [Vitaliy Kuzhil PythonCV.pdf](https://drive.google.com/file/d/1hCnm-dQF_cXedbp0nwseAY0xwUYcPBFh/view?usp=share_link)
+- 💻 My resume [Vitaliy Kuzhil PythonCV.pdf]([https://drive.google.com/file/d/1hCnm-dQF_cXedbp0nwseAY0xwUYcPBFh/view?usp=share_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
