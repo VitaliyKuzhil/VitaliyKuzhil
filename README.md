@@ -5,7 +5,7 @@
 
 - 📫 My email address **vitaliy.kuzhil2018@gmail.com** or **vitaliy.kuzhil1996@gmail.com**
 
-- 💻 My resume [Vitaliy Kuzhil PythonCV.pdf](https://drive.google.com/file/d/1hCnm-dQF_cXedbp0nwseAY0xwUYcPBFh/view?usp=share_link)
+- 💻 My resume [Vitaliy Kuzhil PythonCV.pdf](https://drive.google.com/file/d/1KYBdf0fxdTKgnZxLok8ezdLMbaMUUpDk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
